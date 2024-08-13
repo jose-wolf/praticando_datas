@@ -1,3 +1,5 @@
+package data.conceitos;
+
 import java.time.Duration;
 import java.time.LocalTime;
 
