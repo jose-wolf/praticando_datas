@@ -1,4 +1,4 @@
-package Exercicios.localdate.entities;
+package data.localdate.entities;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

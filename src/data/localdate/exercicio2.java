@@ -1,4 +1,4 @@
-package Exercicios.localdate;
+package data.localdate;
 
 import java.io.BufferedReader;
 import java.io.IOException;

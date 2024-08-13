@@ -1,6 +1,6 @@
-package Exercicios.localdate.executavelexerciciotres;
+package data.localdate.executavelexerciciotres;
 
-import Exercicios.localdate.entities.Menu;
+import data.localdate.entities.Menu;
 
 import java.io.IOException;
 
