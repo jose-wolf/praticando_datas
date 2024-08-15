@@ -1,6 +1,7 @@
 package excecoes.exceptions.model.entities;
 
-import exercicio.exceptions.model.exceptions.TransacaoException;
+
+import excecoes.exceptions.model.exceptions.TransacaoException;
 
 public class Account {
 
