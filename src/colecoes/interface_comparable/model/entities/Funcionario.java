@@ -1,4 +1,4 @@
-package interface_comparable.model.entities;
+package colecoes.interface_comparable.model.entities;
 
 public class Funcionario implements Comparable<Funcionario>{
 

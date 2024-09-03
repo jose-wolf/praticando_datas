@@ -1,6 +1,6 @@
-package interface_comparable.application;
+package colecoes.interface_comparable.application;
 
-import interface_comparable.model.entities.Funcionario;
+import colecoes.interface_comparable.model.entities.Funcionario;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
