@@ -1,4 +1,4 @@
-package lambda.entities;
+package lambda.aulaum.entities;
 
 public class Product {
 
@@ -26,12 +26,17 @@ public class Product {
         this.preco = preco;
     }
 
+    public static String staticUppercaseNome(Product p){
+        return p.getNome().toUpperCase();
+    }
+
+    public String noStaticUppercaseNome(){
+        return nome.toUpperCase();
+    }
+
     @Override
     public String toString() {
-        return "Product{" +
-                "nome='" + nome + '\'' +
-                ", preco=" + preco +
-                '}';
+        return nome + " - "  + String.format("%.2f", preco);
     }
 }
 

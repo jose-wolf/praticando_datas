@@ -1,9 +1,8 @@
-package lambda.application;
+package lambda.aulaum.application;
 
-import lambda.entities.Product;
+import lambda.aulaum.entities.Product;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 
 public class Program {
@@ -15,7 +14,7 @@ public class Program {
         list.add(new Product("TV", 900.00));
         list.add(new Product("Notebook", 2500.00));
         list.add(new Product("Tablet", 850.00));
-        
+
         list.sort((p1, p2) -> p1.getNome().toUpperCase().compareTo(p2.getNome().toUpperCase()));
 
         for (Product p : list){
