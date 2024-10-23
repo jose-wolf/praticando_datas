@@ -1,4 +1,4 @@
-package lambda.praticando.entities;
+package lambdaEStrem.praticando.entities;
 
 
 public class Product {

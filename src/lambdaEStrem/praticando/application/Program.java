@@ -1,7 +1,7 @@
-package lambda.praticando.application;
+package lambdaEStrem.praticando.application;
 
-import lambda.praticando.entities.Product;
-import lambda.praticando.service.ProductService;
+import lambdaEStrem.praticando.entities.Product;
+import lambdaEStrem.praticando.service.ProductService;
 
 import java.util.ArrayList;
 import java.util.List;

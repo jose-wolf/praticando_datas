@@ -1,6 +1,6 @@
-package lambda.auladois.util;
+package lambdaEStrem.auladois.util;
 
-import lambda.aulaum.entities.Product;
+import lambdaEStrem.aulaum.entities.Product;
 
 import java.util.function.Predicate;
 

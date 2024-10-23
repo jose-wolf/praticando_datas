@@ -1,11 +1,9 @@
-package lambda.auladois.application;
+package lambdaEStrem.auladois.application;
 
-import lambda.auladois.util.ProductPredicate;
-import lambda.aulaum.entities.Product;
+import lambdaEStrem.aulaum.entities.Product;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Predicate;
 
 public class Program {
 
@@ -24,7 +22,7 @@ public class Program {
         //list.removeIf(Product::staticProductPredicate); referencia por método estático
        // list.removeIf(Product::noStaticProductPredicate); referencia por método não estático
 
-//        Predicate<Product> pred = p -> p.getPreco() >= 100; expressão lambda declarada
+//        Predicate<Product> pred = p -> p.getPreco() >= 100; expressão lambdaEStrem declarada
 //        list.removeIf(pred);
 
         list.removeIf(p -> p.getPreco() >= 100.0);

@@ -1,11 +1,9 @@
-package lambda.aulatres.application;
+package lambdaEStrem.aulatres.application;
 
-import lambda.aulatres.util.UppercaseName;
-import lambda.aulaum.entities.Product;
+import lambdaEStrem.aulaum.entities.Product;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Program {

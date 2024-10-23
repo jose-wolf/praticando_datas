@@ -1,6 +1,6 @@
-package lambda.aulaum.application;
+package lambdaEStrem.aulaum.application;
 
-import lambda.aulaum.entities.Product;
+import lambdaEStrem.aulaum.entities.Product;
 
 import java.util.ArrayList;
 import java.util.List;

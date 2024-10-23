@@ -1,6 +1,6 @@
-package lambda.aulatres.util;
+package lambdaEStrem.aulatres.util;
 
-import lambda.aulaum.entities.Product;
+import lambdaEStrem.aulaum.entities.Product;
 
 import java.util.function.Function;
 

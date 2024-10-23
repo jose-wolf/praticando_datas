@@ -1,6 +1,6 @@
-package lambda.praticando.service;
+package lambdaEStrem.praticando.service;
 
-import lambda.praticando.entities.Product;
+import lambdaEStrem.praticando.entities.Product;
 
 import java.util.List;
 import java.util.function.Predicate;

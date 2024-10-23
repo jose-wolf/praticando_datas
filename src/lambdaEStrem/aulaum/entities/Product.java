@@ -1,4 +1,4 @@
-package lambda.aulaum.entities;
+package lambdaEStrem.aulaum.entities;
 
 public class Product {
 
